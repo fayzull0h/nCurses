@@ -1,4 +1,4 @@
-#include "../funcs.h"
+#include "includes.h"
 
 void Triangle(int _size, int y, int x, char unit) {
     for (int i = 0; i <= _size; i++) {

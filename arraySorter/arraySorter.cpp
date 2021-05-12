@@ -1,4 +1,4 @@
-#include "funcs.h"
+#include "includes.h"
 
 void sleep(int s) {
     std::this_thread::sleep_for(std::chrono::milliseconds(s));

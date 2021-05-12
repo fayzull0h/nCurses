@@ -1,4 +1,4 @@
-#include "../funcs.h"
+#include "includes.h"
 
 int main() {
     // Initialize screen

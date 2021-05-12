@@ -70,6 +70,7 @@ int main() {
 	refresh();
     }
     attroff(COLOR_PAIR(1));
+    mvprintw(LINES - 1, 0, "Press any key to exit.");
     getch();
     endwin();
     

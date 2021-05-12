@@ -5,7 +5,7 @@ NOTE: These only work on macOS and Linux.
 
 ## arraySorter
 
-This is a program that visually demonstrates the BubbleSort sorting algorithm.
+Run it and find out.
 
 ## triAnimate
 
